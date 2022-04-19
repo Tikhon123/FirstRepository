@@ -2,5 +2,5 @@ good morning
 123456
 bla
 asdf
-another line from user 1
+line from user2
 line from user1
